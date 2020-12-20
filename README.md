@@ -1,1 +1,1 @@
-# House-rent-presiction-for-mumbai-city
+# House-rent-prediction-for-mumbai-city
